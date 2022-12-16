@@ -30,4 +30,4 @@ The testing card details can be used:<br/>
 
 For more testing card number you can vist <a href="https://stripe.com/docs/testing?numbers-or-method-or-token=card-numbers">Stripe testing card docs</a> <br/>
 
-The app is currently deployed in heroku. <a href="https://urpizzas.herokuapp.com/">Ur pizzas</a><br/>
+
